@@ -1,3 +1,3 @@
 
-![Fontanezi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Fontanezi&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fontanezi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Fontanezi's GitHub stats](https://readmestats.999857.xyz/api?username=Fontanezi&show_icons=true&theme=tokyonight)
+[![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=Fontanezi&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
